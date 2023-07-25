@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Seam_Carving.Seam_Carving-task-build-classes-java.main" target="16" />
+      <module name="Seam_Carving.Seam_Carving-task-build-classes-kotlin.main" target="16" />
+      <module name="Seam_Carving.Seam_Carving-task-build-generated-sources-annotationProcessor-java.main" target="16" />
+      <module name="Seam_Carving.Seam_Carving-task-build-generated-sources-headers-java.main" target="16" />
+      <module name="Seam_Carving.Seam_Carving-task-build-reports-tests.main" target="16" />
+      <module name="Seam_Carving.Seam_Carving-task-build-test-results.main" target="16" />
+      <module name="Seam_Carving.Seam_Carving-task-build-tmp.main" target="16" />
+      <module name="Seam_Carving.Seam_Carving-task-out.main" target="16" />
+      <module name="Seam_Carving.Seam_Carving-task.main" target="16" />
+      <module name="Seam_Carving.util.main" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
